@@ -1,0 +1,178 @@
+// ============================================================
+// 山大红 + 学术 minimalist 风格定制（黄旭辉个人学术网站）
+// ============================================================
+
+// --- 颜色变量 ---
+$sdu-red       : #9D2933;   // 山东大学校徽红（海棠红）
+$link-blue     : #1F4E9C;   // 顶部联系链接
+$paper-link    : #00008B;   // 论文标题深蓝
+$text-dark     : #1A1A1A;
+$border-soft   : #D0D0D0;
+
+// ============================================================
+// 字体（Google Fonts CDN，由 head/custom.html 注入）
+// ============================================================
+
+$serif-body    : "Source Serif Pro", "Charter", Georgia, serif;
+$serif-header  : "EB Garamond", "Garamond", Georgia, serif;
+$mono          : "JetBrains Mono", Monaco, Consolas, monospace;
+
+body, p, li, td {
+  font-family: $serif-body !important;
+  font-size: 17px;
+  line-height: 1.7;
+  color: $text-dark;
+}
+
+.author__bio, .author__location, .author__name,
+.author__urls li, .greedy-nav a {
+  font-family: $serif-body !important;
+}
+
+// ============================================================
+// 标题 — EB Garamond + small caps + 粗体
+// ============================================================
+
+h1, h2, h3, h4, .page__title, .archive__subtitle {
+  font-family: $serif-header !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.02em;
+}
+
+h2, .archive__subtitle {
+  font-variant: small-caps;
+  border-bottom: 1px solid $border-soft;
+  padding-bottom: 0.2em;
+}
+
+// ============================================================
+// 链接 — 山大红 hover + 深蓝默认
+// ============================================================
+
+a {
+  color: $link-blue !important;
+  text-decoration: none;
+  transition: color 0.15s ease;
+
+  &:hover, &:focus {
+    color: $sdu-red !important;
+    text-decoration: underline;
+  }
+}
+
+// 论文标题用更深的蓝
+.archive__item-title a,
+.page__content h2 a {
+  color: $paper-link !important;
+}
+
+// ============================================================
+// 导航栏 — hover 山大红
+// ============================================================
+
+.greedy-nav {
+  background: #fff;
+  border-bottom: 2px solid $sdu-red;
+
+  a {
+    color: $text-dark !important;
+    font-weight: 500;
+
+    &:hover {
+      color: $sdu-red !important;
+    }
+  }
+
+  .visible-links a:before {
+    background: $sdu-red !important;
+  }
+
+  .site-title {
+    font-family: $serif-header !important;
+    font-weight: 700 !important;
+    color: $sdu-red !important;
+  }
+}
+
+// ============================================================
+// 侧栏作者信息
+// ============================================================
+
+.author__avatar img {
+  border-radius: 8px !important;
+  border: 2px solid $border-soft;
+  max-width: 200px;
+}
+
+.author__name {
+  font-family: $serif-header !important;
+  font-weight: 600 !important;
+  color: $sdu-red !important;
+}
+
+.author__urls .icon {
+  color: $link-blue;
+}
+
+// ============================================================
+// Publication / Working Paper 条目
+// ============================================================
+
+.archive__item {
+  margin-bottom: 1.8em;
+  padding-bottom: 1em;
+  border-bottom: 1px dashed #ececec;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.archive__item-title {
+  font-family: $serif-header !important;
+  font-weight: 500 !important;
+  font-size: 1.15em !important;
+  margin-bottom: 0.3em;
+  border-bottom: none;
+
+  a {
+    color: $paper-link !important;
+  }
+}
+
+.archive__item-excerpt {
+  font-size: 0.95em;
+  color: #4a4a4a;
+}
+
+// ============================================================
+// 按钮（CV 下载按钮）
+// ============================================================
+
+.btn--primary {
+  background-color: $sdu-red !important;
+  border-color: $sdu-red !important;
+  color: #fff !important;
+
+  &:hover {
+    background-color: darken($sdu-red, 10%) !important;
+    color: #fff !important;
+  }
+}
+
+// ============================================================
+// 首页 News 列表加点强调
+// ============================================================
+
+.page__content ul li strong {
+  color: $sdu-red;
+  font-weight: 600;
+}
+
+// ============================================================
+// 引文文本（archive 自动渲染的 citation 部分）
+// ============================================================
+
+.page__content p em {
+  font-style: italic;
+}

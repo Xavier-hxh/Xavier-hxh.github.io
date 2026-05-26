@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the **Weihai Institute for Interdisciplinary Research, Shandong University**, supervised by [Prof. Ning Zhang](https://aais.wh.sdu.edu.cn/info/1008/1229.htm). My research lies at the intersection of **energy economics, environmental regulation, and climate change economics**.
+I am a Ph.D. in Population, Resources and Environmental Economics at the **Weihai Institute for Interdisciplinary Research, Shandong University**, supervised by [Prof. Ning Zhang](https://aais.wh.sdu.edu.cn/info/1008/1229.htm).
 
-My work uses frontier microeconometric and causal machine learning methods to identify the effects of extreme climate shocks, market-based environmental policies, and digital/renewable infrastructure on firm-level energy efficiency, marginal abatement cost, and total factor productivity.
+My research applies frontier microeconometric and causal machine learning methods to **industrial firms and regional economies in China**, with a focus on how extreme climate shocks, market-based environmental policies, and digital/renewable infrastructure shape their environmental and economic outcomes.
 
 ## Research Interests
 
-- **Climate and energy economics:** Extreme temperature shocks; firm energy intensity; power rationing
-- **Environmental regulation:** Carbon markets; emission trading schemes; desulfurization mandates; marginal abatement cost
-- **Causal inference:** Difference-in-differences; causal forests; spatial spillovers
-- **Sustainable infrastructure:** Renewable energy; green data centers; rural industrial integration
+- **Environmental and Resource Economics:** Marginal abatement cost; firm-level emission performance; environmental regulation
+- **Climate Change Economics:** Extreme temperature shocks; energy intensity; firm adaptation
+- **Productivity Analysis:** Total factor productivity; frontier estimation; quantile efficiency
+- **Causal Inference and Machine Learning:** Difference-in-differences; causal forests; heterogeneous treatment effects
 
 ## News
 

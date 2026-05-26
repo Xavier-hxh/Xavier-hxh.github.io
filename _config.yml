@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xuhui Huang"
 title_separator          : "-"
 name                     : &name "Xuhui Huang"
-description              : &description "PhD Candidate in Energy and Environmental Economics, Shandong University"
+description              : &description "PhD in Environmental and Resource Economics, Shandong University"
 url                      : https://xavier-hxh.github.io
 baseurl                  : ""
 repository               : "Xavier-hxh/Xavier-hxh.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Xuhui Huang"
   pronouns         : "he/him"
-  bio              : "PhD Candidate in Energy & Environmental Economics"
+  bio              : "PhD in Environmental & Resource Economics"
   location         : "Weihai, China"
   employer         : "Shandong University"
   uri              :

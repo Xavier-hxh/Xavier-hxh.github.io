@@ -43,7 +43,7 @@ Environmental and Resource Economics; Climate Change Economics; Productivity Ana
 
 ## Journal Referee
 
-Environmental and Resource Economics; Journal of Environmental Management; Research in International Business and Finance; Transportation Research Part D: Transport and Environment; Environmental and Sustainability Indicators.
+Environmental and Resource Economics; Environmental Impact Assessment Review; Journal of Environmental Management; Research in International Business and Finance; International Review of Economics & Finance; Transportation Research Part D; Transportation Research Part E; Environmental and Sustainability Indicators; Utilities Policy.
 
 ## Skills
 

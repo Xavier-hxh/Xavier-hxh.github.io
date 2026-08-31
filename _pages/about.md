@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. in Population, Resources and Environmental Economics at the **Weihai Institute for Interdisciplinary Research, Shandong University**, supervised by [Prof. Ning Zhang](https://aais.wh.sdu.edu.cn/info/1008/1229.htm).
+I am a **Specially Funded Postdoctoral Fellow** at the Weihai Institute for Interdisciplinary Research, Shandong University. I received my Ph.D. in Population, Resources and Environmental Economics from Shandong University under the supervision of [Prof. Ning Zhang](https://aais.wh.sdu.edu.cn/info/1008/1229.htm).
 
 My research applies frontier microeconometric and causal machine learning methods to **industrial firms and regional economies in China**, with a focus on how extreme climate shocks, market-based environmental policies, and digital/renewable infrastructure shape their environmental and economic outcomes.
 
@@ -28,6 +28,6 @@ My research applies frontier microeconometric and causal machine learning method
 
 ## Contact
 
-- Email: [huang_xuh@163.com](mailto:huang_xuh@163.com) · [huang_xuh@mail.sdu.edu.cn](mailto:huang_xuh@mail.sdu.edu.cn)
-- Office: Room 1820, Beiheng Building, 180 West Wenhua Rd, Weihai 264209, China
+- Email: [huang_xuh@163.com](mailto:huang_xuh@163.com) · [huang_xuh@sdu.edu.cn](mailto:huang_xuh@sdu.edu.cn)
+- Office: Room 1805, Beiheng Building, 180 West Wenhua Rd, Weihai 264209, China
 - [Google Scholar](https://scholar.google.com/citations?user=2OG6_aIAAAAJ) · [GitHub](https://github.com/Xavier-hxh)

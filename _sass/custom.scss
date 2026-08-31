@@ -176,3 +176,18 @@ a {
 .page__content p em {
   font-style: italic;
 }
+
+// ============================================================
+// 页脚全站访问量
+// ============================================================
+
+.site-visit-counter {
+  display: inline-block;
+  margin-top: 0.25em;
+  font-family: $serif-body;
+  font-variant-numeric: tabular-nums;
+
+  &[hidden] {
+    display: none;
+  }
+}

@@ -11,4 +11,28 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
+<!-- Reveal the counter only after the statistics service returns a value. -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var counter = document.querySelector('[data-site-visit-counter]');
+    var value = document.getElementById('busuanzi_site_pv');
+
+    if (!counter || !value) return;
+
+    var observer = new MutationObserver(function () {
+      if (value.textContent.trim()) {
+        counter.hidden = false;
+        observer.disconnect();
+      }
+    });
+
+    if (value.textContent.trim()) {
+      counter.hidden = false;
+      return;
+    }
+
+    observer.observe(value, { childList: true, characterData: true, subtree: true });
+  });
+</script>
+
 <!-- end custom footer snippets -->

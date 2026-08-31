@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xuhui Huang"
 title_separator          : "-"
 name                     : &name "Xuhui Huang"
-description              : &description "Postdoctoral Fellow (Specially Funded) at Shandong University"
+description              : &description "Xuhui Huang is a Postdoctoral Fellow at Shandong University researching environmental and resource economics, climate change, productivity, and causal machine learning."
 url                      : https://xavier-hxh.github.io
 baseurl                  : ""
 repository               : "Xavier-hxh/Xavier-hxh.github.io"
@@ -35,13 +35,14 @@ author:
   academia         :
   arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=2OG6_aIAAAAJ"
+  repec            : "https://ideas.repec.org/f/phu705.html"
   inspire-hep      :
   impactstory      :
   orcid            :
   semantic         :
   ssrn             :
   pubmed           :
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Xuhui-Huang-6"
   scopus           :
   zotero           :
 
@@ -142,14 +143,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "profile.jpg" # Social media default site image
+og_description           : "Research in environmental and resource economics, climate change economics, productivity analysis, and causal machine learning."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Xuhui Huang"
+  links:
+    - "https://scholar.google.com/citations?user=2OG6_aIAAAAJ"
+    - "https://ideas.repec.org/f/phu705.html"
+    - "https://www.researchgate.net/profile/Xuhui-Huang-6"
+    - "https://github.com/Xavier-hxh"
 
 
 # Analytics

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Xuhui Huang's homepage"
+excerpt: "Xuhui Huang is a Postdoctoral Fellow at Shandong University researching environmental and resource economics, climate change, productivity, and causal machine learning."
 author_profile: true
 redirect_from:
   - /about/

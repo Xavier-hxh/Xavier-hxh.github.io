@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Specially Funded Postdoctoral Fellow** at the Weihai Institute for Interdisciplinary Research, Shandong University. I received my Ph.D. in Population, Resources and Environmental Economics from Shandong University under the supervision of [Prof. Ning Zhang](https://aais.wh.sdu.edu.cn/info/1008/1229.htm).
+I am a **Postdoctoral Fellow (Specially Funded)** at the Weihai Institute for Interdisciplinary Research, Shandong University. I received my Ph.D. in Population, Resources and Environmental Economics from Shandong University under the supervision of [Prof. Ning Zhang](https://aais.wh.sdu.edu.cn/info/1008/1229.htm).
 
 My research applies frontier microeconometric and causal machine learning methods to **industrial firms and regional economies in China**, with a focus on how extreme climate shocks, market-based environmental policies, and digital/renewable infrastructure shape their environmental and economic outcomes.
 

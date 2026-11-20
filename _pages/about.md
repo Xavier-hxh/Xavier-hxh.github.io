@@ -21,6 +21,7 @@ My research applies frontier microeconometric and causal machine learning method
 
 ## News
 
+- **2026.11** Paper accepted at *Journal of Environmental Economics and Management* — “Constrained adaptation: Extreme temperatures and energy intensity in manufacturing firms”
 - **2026.03** Selected as Outstanding Graduate, Shandong University.
 - **2025.11** Presented two papers at the 14th China Energy Economics and Management Annual Conference, Xi'an.
 - **2025.08** Paper accepted at *Applied Energy* — "How does the carbon market influence the marginal abatement cost?"

@@ -28,9 +28,10 @@ Environmental and Resource Economics; Climate Change Economics; Productivity Ana
 
 ## Selected Publications
 
-1. **Xuhui Huang**, Tao Zhou, & Ning Zhang. (2025). [How does the carbon market influence the marginal abatement cost?](https://doi.org/10.1016/j.apenergy.2024.124822) *Applied Energy*, 378, 124822.
-2. Ning Zhang, **Xuhui Huang**, & Chao Qi. (2022). [The effect of environmental regulation on the marginal abatement cost of industrial firms.](https://doi.org/10.1016/j.eneco.2022.106147) *Energy Economics*, 112, 106147.
-3. Tao Zhou, **Xuhui Huang**, & Ning Zhang. (2023). [The effect of innovation pilot on carbon total factor productivity.](https://doi.org/10.1016/j.eneco.2023.106895) *Energy Economics*, 125, 106895. **(ESI Highly Cited)**
+1. **Xuhui Huang**, Robert J.R. Elliott, & Ning Zhang. (2026). [Constrained adaptation: Extreme temperatures and energy intensity in manufacturing firms.](https://doi.org/10.1016/j.jeem.2026.103442) *Journal of Environmental Economics and Management*, Article 103442. *In press*.
+2. **Xuhui Huang**, Tao Zhou, & Ning Zhang. (2025). [How does the carbon market influence the marginal abatement cost?](https://doi.org/10.1016/j.apenergy.2024.124822) *Applied Energy*, 378, 124822.
+3. Ning Zhang, **Xuhui Huang**, & Chao Qi. (2022). [The effect of environmental regulation on the marginal abatement cost of industrial firms.](https://doi.org/10.1016/j.eneco.2022.106147) *Energy Economics*, 112, 106147.
+4. Tao Zhou, **Xuhui Huang**, & Ning Zhang. (2023). [The effect of innovation pilot on carbon total factor productivity.](https://doi.org/10.1016/j.eneco.2023.106895) *Energy Economics*, 125, 106895. **(ESI Highly Cited)**
 
 → [Full publication list](/publications/) · [Working papers](/working-papers/)
 
@@ -43,7 +44,7 @@ Environmental and Resource Economics; Climate Change Economics; Productivity Ana
 
 ## Journal Referee
 
-Environmental and Resource Economics; Environmental Impact Assessment Review; Journal of Environmental Management; Research in International Business and Finance; International Review of Economics & Finance; Transportation Research Part D; Transportation Research Part E; Environmental and Sustainability Indicators; Utilities Policy.
+*Environmental and Resource Economics*; *Energy Economics*; *Environmental Impact Assessment Review*; *Journal of Environmental Management*; *Research in International Business and Finance*; *International Review of Economics & Finance*; *Transportation Research Part D*; *Transportation Research Part E*; *Humanities and Social Sciences Communications*; *Environmental and Sustainability Indicators*; *Utilities Policy*.
 
 ## Skills
 
